@@ -1,0 +1,63 @@
+
+
+
+
+
+/* start Header */
+header {
+    background-image: url('../images/blog-page.jpg');
+    padding: 0;
+    position: relative;
+}
+header h1 {
+    padding: 200px 0 300px;
+    color: #FFF;
+    margin: 0;
+    position: relative;
+    z-index: 100;
+}
+header .navbar-light .navbar-nav .nav-link{
+    color: #FFF!important;
+}
+header .navbar-light .navbar-nav .nav-link:hover {
+    color: #FA5252 !important;
+}
+.navbar-light .navbar-toggler {
+    color: #FFF;
+    font-size: 2.25rem;
+}
+/* End Header */ 
+
+/* Start Section Blogs */ 
+
+.blooog {
+    padding: 50px 0;
+}
+.blooog .guidperson {
+    padding: 20px 0 40px;
+}
+.blooog .guidperson .sguidperson {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.blooog img {
+    margin-bottom: 20px;
+}
+.blooog .becomm {
+    font-size: 27px;
+    font-weight: bold;
+    color: #000000c4;
+}
+/* End Section Blogs */
+
+/* Contacts */ 
+
+.form-group textarea {
+    height: 250px;
+}
+
+/* End Contact */ 
+
+hr {
+    margin-top: 30px;
+}
